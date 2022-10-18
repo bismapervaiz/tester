@@ -1,3 +1,3 @@
-module github.com/bismapervaiz/Test-Package
+module github.com/bismapervaiz/tester
 
 go 1.16
